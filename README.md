@@ -1,0 +1,2 @@
+# Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History
+An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.
