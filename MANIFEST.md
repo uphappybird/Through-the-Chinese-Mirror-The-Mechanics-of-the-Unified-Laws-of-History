@@ -98,3 +98,21 @@ SHA-256:f1bdd27290e9b5217b4d40bb725182c53f152e2e801aba446be0e774a8249603
 
 SHA-256:186cff9ccaf0b81b38b480d4194f48c2bbbd4b50f345190a4d9b469b1f057457
 
+
+
+##### Official archival release:
+
+
+
+Zenodo DOI:
+
+10.5281/zenodo.21386559
+
+
+
+Current archival version:
+
+Version 1.0
+
+Published July 16, 2026
+
