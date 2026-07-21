@@ -12,23 +12,19 @@ The official archival release of this project has been deposited in Zenodo.
 
 
 
-DOI: https://doi.org/10.5281/zenodo.21386559
+DOI: https://doi.org/10.5281/zenodo.21386558
 
 
 
-The Zenodo deposit contains:
+Beginning with Version 2.0, the contents of this GitHub repository are synchronized with the corresponding Zenodo release in order to reduce long-term maintenance costs and ensure consistency across publication platforms.
 
 
 
-\- \[Refined and Guided Edition] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
-
-\- Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
-
-\- 对未来的思考 Thoughts on the Future.pdf
+The original Chinese working drafts have fulfilled their historical purpose and are therefore no longer distributed through this repository.
 
 
 
-These files constitute the permanent citable scholarly record of the project.
+Although the file ARCHIVAL_RECORD.md does not include the cryptographic hashes of the DOCX source files, each DOCX document is intended to be content-identical to the PDF bearing the same filename. The PDF editions should be regarded as the canonical published versions.
 
 
 
