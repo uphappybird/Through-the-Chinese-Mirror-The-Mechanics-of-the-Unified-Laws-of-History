@@ -12,7 +12,7 @@ The official archival release of this project has been deposited in Zenodo.
 
 
 
-DOI: https://doi.org/10.5281/zenodo.21386558
+DOI: https://doi.org/10.5281/zenodo.21458550
 
 
 
@@ -29,4 +29,27 @@ Although the file ARCHIVAL_RECORD.md does not include the cryptographic hashes o
 
 
 The GitHub repository remains the actively maintained development repository, containing supplementary materials, source documents, historical revisions, and future updates.
+
+
+
+##### Archival Statement:
+
+
+
+This registration is intended to serve as a permanent public scholarly record. The author has no intention of withdrawing or substantially altering this registration after publication. Any future request purporting to withdraw, restrict, or materially modify this registration should not be presumed to represent the author's genuine scholarly intent without compelling evidence.
+
+
+
+##### Version 2.0 Update Notes:
+
+
+
+This version introduces several improvements to the published files:
+1. Added a "Copyright and Open Access License" and a "Declaration of Irrevocable Open-Access License" to the front matter of every PDF file, explicitly stating that this work is permanently released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+2. Renamed the PDF files previously containing Chinese characters in their filenames using English-only filenames, in order to avoid potential character-encoding or compatibility issues across different repositories and operating systems.
+3. Corrected several minor formatting and table-of-contents issues to improve consistency and readability.
+
+
+
+No changes have been made to the core arguments, analytical framework, or scholarly conclusions of the work. Version 2.0 is therefore fully compatible with Version 1.0 in terms of academic content, while providing improved long-term accessibility, interoperability, and archival stability.
 
