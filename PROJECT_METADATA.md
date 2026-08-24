@@ -1,8 +1,4 @@
-### Resource type: Book
-
-### Title: Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022)
-
-### Publication date: 2026-07-16
+### Title: Through the Chinese Mirror: The Mechanics of the Unified Laws of History (Drafted since 2022)
 
 ### Sole Author: Adrian Mercer
 
@@ -14,7 +10,7 @@ An independent interdisciplinary research project in history and sociology. Begi
 
 ##### Included files
 
-###### "\[Refined and Guided Edition\] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf"
+###### "\[Refined and Guided Edition] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf"
 
 This file contains the Refined and Guided Edition of the English manuscript. Completed on July 14, 2026, it represents the final work completed within the entire project and serves as the recommended edition for first-time readers.
 
@@ -26,7 +22,7 @@ This is the complete English translation of the manuscript, corresponding almost
 
 This is a short essay based on the content of the manuscript but independent of it, including both English and Chinese original versions in a bilingual format.
 
-###### "Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction\].pdf"
+###### "Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction].pdf"
 
 This is a revised Chinese edition of the manuscript. The original autobiographical opening has been replaced with a dedicated Author's Preface and Introduction, aligning the overall structure of the Chinese text with that of the standard English edition.
 
@@ -58,14 +54,6 @@ Over the following two months, I translated the manuscript into English. By earl
 
 Although the Chinese original has a relatively colloquial tone due to the origin and writing process of the manuscript, it remains the cornerstone of this project. The Chinese language and concern for Chinese history have always been the underlying tone of the manuscript. Subsequent English editions and related materials should be regarded as companion works to this Chinese original.
 
-##### Contact
-
-The author's contact email is: [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me)
-
-Academic discussion and correspondence are always welcome. However, due to the author's personal circumstances and the complexity of the network environment in which the author currently lives, it may take a considerable amount of time for emails to be read and replied to. Responses will be provided whenever circumstances permit. Please also note that this email address may eventually become unavailable because of factors beyond the author's control. If this happens, future contact information, if any, will be announced through the author's publicly maintained archival repositories whenever possible. 
-
-Throughout all publicly released versions of this work, the author publishes under the name Adrian Mercer.
-
 ##### Version 2.0 Update Notes
 
 This version introduces several improvements to the published files:
@@ -77,6 +65,18 @@ This version introduces several improvements to the published files:
 **3. Corrected several minor formatting and table-of-contents issues** to improve consistency and readability.
 
 No changes have been made to the core arguments, analytical framework, or scholarly conclusions of the work. Version 2.0 is therefore fully compatible with Version 1.0 in terms of academic content, while providing improved long-term accessibility, interoperability, and archival stability.
+
+##### Version 3.0 Update Notes
+
+Only minor clerical and formatting errors were corrected.
+
+##### Contact
+
+The author's contact email is: [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me)
+
+Academic discussion and correspondence are always welcome. However, due to the author's personal circumstances and the complexity of the network environment in which the author currently lives, it may take a considerable amount of time for emails to be read and replied to. Responses will be provided whenever circumstances permit. Please also note that this email address may eventually become unavailable because of factors beyond the author's control. If this happens, future contact information, if any, will be announced through the author's publicly maintained archival repositories whenever possible. 
+
+Throughout all publicly released versions of this work, the author publishes under the name Adrian Mercer.
 
 ### Additional Description:
 
@@ -116,235 +116,39 @@ Editorial corrections, typographical fixes, formatting improvements, translation
 
 Where substantive changes are made, modified versions **should** be clearly identified as adaptations rather than the original manuscript.
 
-##### Table of contents
-
-Author's Preface (自序)
-
-Introduction (导言)
-
-VOLUME I: IN BEIJING (第一篇:在北京)
-
-Chapter 1: Why Has China Maintained Unity for a Relatively Long Time
-
-1. The Question is Not Why Unity Persisted, But Why It Was Rebuilt
-
-2. The Compromise Between Ethnic Minority Rulers and Han Landlords
-
-3. Emperor Xiaowen's Compromise Was Not a Success
-
-4. After the Uprising of the Six Frontier Garrisons, China's Feudalization Process Reached Its Zenith
-
-5. The Ultimate Failure of China's feudalization
-
-6. The Success of the Restoration-Bureaucratic System
-
-Chapter 2: Why China's Bureaucratic System Was So Formidable Amidst the Wave of Feudalization
-
-1. Natural Disasters May Have Played a Certain Role
-
-2, The Characteristics of the Expansionary Wars During the Western Han Period
-
-3, The Xiongnu Were Inherently Powerful, and Their Threat Was Psychologically Amplified
-
-Chapter 3: Under What Conditions Were Classical Empires Formed?
-
-Chapter 4: About Japan
-
-1, Japan's Tang-Style Reforms Were Too Radical: The External Introduction of a bureaucratic system Prior to the classical period
-
-2, What Factors in Japanese History Favored Feudalization?
-
-3, What Factors in Japanese History Were Unfavorable to Feudalization?
-
-Chapter 5: Regarding the Yunnan Region
-
-Chapter 6: Regarding the Ruling Class
-
-1. Letting the Ruling Class Rule was the Optimal Solution in Historical Periods
-
-2, Giving Civilization to the Years, Not Years to Civilization
-
-3, Social Revolution is a Long-Term Enterprise
-
-4, Adjustments to the Definition of Class Society
-
-5, The Clumsy Lies of the Chinese Rulers
-
-6, The Chinese People's Devout Belief in Lies
-
-7, The Chinese Rulers Have Mastered the Essentials of Lying
-
-8, The Views of My Friends
-
-Chapter 7: Military Pressure and Water Conservancy Issues in the Restoration-Bureaucratic Period
-
-1, The Threat of the Xiongnu Was Indeed Unique in Chinese History
-
-2, The Restoration-Bureaucratic System Was Fundamentally Incapable of Coping with the Military Realities of the Feudal Period
-
-3, The Chinese Rulers Were Crystal Clear About the Military Superiority of the Feudal System
-
-4, A Feudalized China Would Possess a Massive Military Advantage Over Surrounding Regions
-
-5, The Need for Water Conservancy is by No Means the Rationale for Maintaining the restoration-bureaucratic state
-
-Chapter 8: Religion, Two Types of Efficiency, World War II, and the Korean War
-
-1, Religion Played a Crucial, Positive Role in Human History, Especially in Early Feudal Society
-
-2, It is Necessary to Distinguish Between Political Efficiency and Social Efficiency
-
-3, Perspectives on the "Fascist States" of Germany and Japan
-
-4, If We Must Say, the United States is the Foremost Contributor to the Anti-Fascist War
-
-5, The War to Resist US Aggression and Aid Korea Could Not Halt the Grand Trend of the Oikumene
-
-6, Regarding the Issues Encountered During Writing, and a Hope for Understanding
-
-VOLUME II IN XI'AN (第二篇:在西安)
-
-Preface to Volume II
-
-Chapter 9: Banknote Figures, Common Sense, Tactics and Momentum, Concepts, Opportunity Costs in Politics, Ministers and Slaves, Dream of the Red Chamber
-
-1, Chinese Political Jokes That Are Even Funnier Than Soviet Political Jokes
-
-2, What Is Printed on a Banknote Is the Vision of an Entire Nation
-
-3, For a Civil Society, the Most Crucial Element is That the People Possess Basic Common Sense
-
-4, The Chinese View of the World Is Exceedingly Naive
-
-5, It Is Easy for People to Be Influenced by Various Concepts Due to Their Environments
-
-6, The Chinese People Have Not Realized the Massive Opportunity Costs in Political Decision-Making
-
-7, The Qing Rulers' Astute Distinction Between Two Types of Bureaucrats
-
-8, Dream of the Red Chamber is an Excellent Literary Work Reflecting the Panorama of the Restoration-Bureaucratic Society
-
-Chapter 10: Seasons and Political Turmoil
-
-Chapter 11: On Islam and Byzantium
-
-1, The History of Islam Is Crucial, Yet Exceedingly Difficult to Study Within China
-
-2, A Compromise Emerged During the Great Islamic Conquests
-
-3, The Unfavorable Factors Impeding Feudalization in the Islamic World
-
-4, Islam Is a Religion Exceptionally Suited for Early Feudal Societies
-
-5, The Geographical Openness of the Islamic World Was Detrimental to Its Development
-
-6, The Fulani Jihads in the West African Sahel
-
-7, The New Criterion I Have Adopted
-
-8, Why Observe Byzantium and the Necessity of Considering Commercial Factors
-
-9, Extreme Caution Must Be Exercised When Introducing Commercial Factors as Explanations
-
-10, The "Orientalization" of Rome Possessed Both an Active Monarchical Aspect and a Passive Aspect Driven by Social Development
-
-11, The Similarities Between Byzantium and China, Especially in the Behavior of Their Rulers
-
-12, The Byzantine Empire Brought About Its Own Destruction
-
-Chapter 12: Adjustments on Historical Periodization
-
-1, Why Write This Massive Chapter
-
-2, Gratitude to My Pet Turtledove, "Choubao" (Stinky Baby)
-
-3, The Fascinating Event That Birthed These 400,000 Words
-
-4, Early States Before The Great Expansion
-
-5, The Great Expansion Altered the Global Paradigm of Human Civilization
-
-6, The Monumental Significance of The Great Expansion in the Formation of Classical Empires
-
-7, Who Could Emerge Victorious from The Great Expansion?
-
-8, The Halting of The Great Expansion Carries Equal Historical Significance to Its Inception
-
-9, Clearly Defined Land Ownership is the Fundamental Prerequisite for Feudalization
-
-10, Why Did Classical Empires Emerge So Early in Iran and India?
-
-11, The Striking Similarities Between Rome and China
-
-12, Why the Feudalization Process in China Abruptly Accelerated During the Han Dynasty
-
-13, Why the Political Reforms During Emperor Wu's Reign Ultimately Led China Down a Catastrophic Path
-
-14, The Imperative to Differentiate Between Infrastructural Power and Despotic Power, and Their Divergent Historical Trajectories
-
-15, The Evolution of Infrastructural Power Since the Restoration of the Bureaucratic State and Its Political Logic
-
-16, The Exceedingly Sluggish Formation of the Genuine Classical Iran
-
-17, The Situation in Northern India
-
-18, The Situation in Southern India, and the Favorable and Unfavorable Factors for Its Feudalization
-
-19, Warlord Chaos and Barbarian Invasions During the Collapse of Classical Empires
-
-20, The Dramatic Termination and Continuation of Classical Iran
-
-21, Concerning the Islamic Feudal System and the Problem of Its Incomplete Development
-
-22, The Superficial Revival of Classical Society in Andalusia
-
-23, A Renewed Critique of Byzantium
-
-24, The Advantages and Disadvantages of Western Expansion, and the Problem of Pseudo-modernization
-
-25, Nomadic Regimes and Feudalization, and Why the Xiongnu Were Disproportionately Formidable
-
-26, The Principal Characteristics of the Feudalization Process, to Facilitate Observation
-
-27, Utilizing Buddhism as a Paradigm to Illustrate the Transformation of Social Thought During the Feudalization Process
-
-28, Discussions Requiring Supplementation Regarding Certain Historical Problems Following the Failure of China's Feudalization
-
-29, The Crucial Position of Feudal Society in the Developmental Process of Human History
-
-30, On the Usage and Definition of Concepts
-
-31, Explanations Regarding Certain Personal Judgments
-
-Chapter 13: Insights and Reflections
-
-1, Human Societies Across Distinct Regions and Ethnicities Are Governed by Unified Scientific Laws
-
-2, Perceiving Classical Empires as "Towering Mountains" is a Universal Flaw of Humanity
-
-3, Historians' Lack of Caution and Comprehension Regarding "Solving the Grand Case"
-
-4, Perspectives on the "Grand Chinese Case" and Why I Touch Only Lightly Upon the Ming and Qing Eras
-
-5, People Perpetually Forget the Mutating Era, Committing the Blunder of Rigid Criteria Application due to Literal Misinterpretation
-
-6, Technological Advancement Might Not Inevitably Facilitate Mutual Comprehension Among Global Peoples
-
-7, A Modest Perspective on the Contemporary Western World
-
-8, The Destiny of China
-
-Chapter 14: Epilogue
-
 ### Licenses: Creative Commons Attribution 4.0 International
 
 ### Copyright: Copyright © 2026 Adrian Mercer. All rights reserved except as granted under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 ### Languages: English; Mandarin Chinese
 
-### Version: Version 1.0
-
-### Publisher: Zenodo
-
 ### Related works: is supplyment by [uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+
+### Citation: If you wish to cite this work, please cite the Zenodo DOI: [https://doi.org/10.5281/zenodo.21386558](https://doi.org/10.5281/zenodo.21386559)
+
+### A Personal Note to Future Readers:
+
+This manuscript is far from perfect.
+
+Its presentation remains uneven. Some arguments require further refinement; some terminology could be expressed more precisely; and many questions that deserve careful discussion have necessarily been left unexplored. The author is fully aware of these limitations.
+
+No one hopes more than the author that this project may continue to develop. There remain many historical problems to investigate, many theoretical questions to clarify, and undoubtedly many errors still to discover and correct.
+
+Yet life rarely unfolds according to one's intellectual aspirations.
+
+Academic research demands not only curiosity, but also time, stability, and freedom—conditions that cannot always be taken for granted. The author therefore cannot know how much opportunity will remain in the years ahead to continue this work.
+
+There is, however, another reason for publishing this manuscript in its present, imperfect form.
+
+The author believes that the advancement of human knowledge depends not only upon solving problems within established paradigms, but also upon questioning the paradigms themselves. Such attempts are inevitably uncertain. Most of them will fail. Nevertheless, without individuals willing to propose new ways of asking old questions, intellectual history itself cannot move forward.
+
+Perhaps this willingness belongs especially to youth.
+
+As time passes, responsibilities accumulate, caution replaces boldness, and many questions that once seemed worth pursuing gradually become too costly to ask. The author wished, while that willingness still remained, to preserve an honest record of these reflections rather than leave them forever unpublished.
+
+Whether the ideas contained in this manuscript ultimately prove to be correct or mistaken is of secondary importance.
+
+If future readers are able to understand them, criticize them, improve them, develop them further, or demonstrate where they are wrong, then this work will already have fulfilled the purpose for which it was written.
+
+For every thoughtful reader who chooses to engage seriously with these pages, the author offers his deepest gratitude.
 

@@ -14,25 +14,25 @@ These hashes may be used to verify file integrity
 
 and confirm that downloaded copies have not been modified.
 
-\[Refined and Guided Edition\] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
+\[Refined and Guided Edition] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
 
-SHA-256: 5563e2e3b1a938ef6137d330de17d67e90a2dcf86a581b47b5dfda2ab996b27b
+SHA-256: f650d43d4537d3c0c78e923968c0fa0a053380d300a85ce4cbd90abed2c7f529
 
 Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
 
-SHA-256: 50d17a8f06e820546eeb76af763ad111f906ebc275f6a7ce5dff068632fe928a
+SHA-256: 9475cbfd52271862293e01de6d12f0ae47ee4f9e442db8b774999466cf723d48
 
 Thoughts on the Future (Chinese-English Bilingual).pdf
 
 SHA-256: 4d690f2f4a90743d35ab70261528a10b25b19ff2f70df7695b76c9fa6b9dc090
 
-Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction\].pdf
+Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction].pdf
 
-SHA-256: 8e66e11eb2473ec5b4dc052eabd22dc2d235aaacc221265185a8b84789e7e681
+SHA-256: 882336c8e84035d09edf5b06e571914aef676e9dc7bed4368ce6a6dd2fb96648
 
 PROJECT\_METADATA.md
 
-SHA-256: 5f6328e96e1e9f08ce6d620627fd9dfd1f09744d2f9ad365804cd32792704a47
+SHA-256: 048be30235f33fbfba1dbec41200b94c401c8f2de2ba801cf2960019c670c845
 
 AUTHOR\_DECLARATION.md
 
