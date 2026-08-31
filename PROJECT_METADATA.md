@@ -1,4 +1,4 @@
-### Title: Through the Chinese Mirror: The Mechanics of the Unified Laws of History (Drafted since 2022)
+### Title: Through the Chinese Mirror: The Mechanics of the Unified Laws of History (Drafted since 2022) / 中国之鉴：历史统一规律的运行机制（壬寅年起记录）
 
 ### Sole Author: Adrian Mercer
 
@@ -12,19 +12,19 @@ An independent interdisciplinary research project in history and sociology. Begi
 
 ###### "\[Refined and Guided Edition] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf"
 
-This file contains the Refined and Guided Edition of the English manuscript. Completed on July 14, 2026, it represents the final work completed within the entire project and serves as the recommended edition for first-time readers.
+This file contains the Refined and Guided Edition of the English manuscript. Completed on July 14, 2026, it represents the final work completed within the entire project and serves as the recommended edition for first-time readers. The corresponding source files in DOCX and ODT formats are also included.
 
 ###### "Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf"
 
-This is the complete English translation of the manuscript, corresponding almost entirely to the Chinese original. It was initially completed on July 4, 2026 and contains more than 320,000 words.
+This is the complete English translation of the manuscript, corresponding almost entirely to the Chinese original. It was initially completed on July 4, 2026 and contains more than 320,000 words. The corresponding source files in DOCX and ODT formats are also included.
 
 ###### "Thoughts on the Future (Chinese-English Bilingual).pdf"
 
-This is a short essay based on the content of the manuscript but independent of it, including both English and Chinese original versions in a bilingual format.
+This is a short essay based on the content of the manuscript but independent of it, including both English and Chinese original versions in a bilingual format. The corresponding source file in DOCX format are also included.
 
 ###### "Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction].pdf"
 
-This is a revised Chinese edition of the manuscript. The original autobiographical opening has been replaced with a dedicated Author's Preface and Introduction, aligning the overall structure of the Chinese text with that of the standard English edition.
+This is a revised Chinese edition of the manuscript. The original autobiographical opening has been replaced with a dedicated Author's Preface and Introduction, aligning the overall structure of the Chinese text with that of the standard English edition. The corresponding source files in DOCX and ODT formats are also included.
 
 ###### "ARCHIVAL\_RECORD.md"
 
@@ -116,15 +116,41 @@ Editorial corrections, typographical fixes, formatting improvements, translation
 
 Where substantive changes are made, modified versions **should** be clearly identified as adaptations rather than the original manuscript.
 
-### Licenses: Creative Commons Attribution 4.0 International
+### Licenses: 
 
-### Copyright: Copyright © 2026 Adrian Mercer. All rights reserved except as granted under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Creative Commons Attribution 4.0 International
 
-### Languages: English; Mandarin Chinese
+### Copyright: 
 
-### Related works: is supplyment by [uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+Copyright © 2026 Adrian Mercer. All rights reserved except as granted under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-### Citation: If you wish to cite this work, please cite the Zenodo DOI: [https://doi.org/10.5281/zenodo.21386558](https://doi.org/10.5281/zenodo.21386559)
+### Languages: 
+
+English; Mandarin Chinese
+
+### Related works: 
+
+is supplyment by [uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+
+### Original GitHub Repository URL Wayback Machine Snapshot:
+
+[https://web.archive.org/web/20260827013004/https://github.com/shanbanjiu-lang/Audit-of-ChineseHistory-and-the-Universal-Laws-of-Historical-Development](https://web.archive.org/web/20260827013004/https://github.com/shanbanjiu-lang/Audit-of-ChineseHistory-and-the-Universal-Laws-of-Historical-Development)
+
+[https://web.archive.org/web/20260826105713/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History](https://web.archive.org/web/20260826105713/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+
+### Citation: 
+
+If you wish to cite this work, please cite the Zenodo DOI: [https://doi.org/10.5281/zenodo.21386558](https://doi.org/10.5281/zenodo.21386558)
+
+Should the Zenodo repository become inaccessible due to uncontrollable factors, please cite the OSF Project (DOI: 10.17605/OSF.IO/N49WH) as a permanent alternative.
+
+### Storage Status on Internet Archive:
+
+Multiple backups of this project have been established on the Internet Archive, and it can be searched and retrieved in both Chinese and English.
+
+### Status of the Original Substack Account:
+
+This account ([https://realadrianmercer.substack.com](https://realadrianmercer.substack.com/)) was previously used for the translation, formatting, and collation of the manuscript. As the project has now been officially published on Zenodo (DOI: 10.5281/zenodo.21386558) and OSF (DOI: 10.17605/OSF.IO/N49WH), and achieved distributed storage via the Internet Archive and Z-Library, this account has fulfilled its historical mission and will cease all further updates and activities ([https://web.archive.org/web/20260827014635/https://realadrianmercer.substack.com/p/mission-accomplished-the-serialization](https://web.archive.org/web/20260827014635/https://realadrianmercer.substack.com/p/mission-accomplished-the-serialization)).
 
 ### A Personal Note to Future Readers:
 
@@ -151,4 +177,32 @@ Whether the ideas contained in this manuscript ultimately prove to be correct or
 If future readers are able to understand them, criticize them, improve them, develop them further, or demonstrate where they are wrong, then this work will already have fulfilled the purpose for which it was written.
 
 For every thoughtful reader who chooses to engage seriously with these pages, the author offers his deepest gratitude.
+
+### Biography
+
+Adrian Mercer is an independent interdisciplinary researcher whose work explores history, sociology, social evolution, and institutional transformation. His research emphasizes comparative historical analysis, rigorous reasoning, and the development of broader frameworks for understanding long-term social change.
+
+Adrian Mercer has always been deeply concerned with the destiny of his homeland and his compatriots. Deeply moved by the hardships of the times, he has continually sought answers to several profound historical and social questions in his spare time. By the grace of Heaven, Adrian achieved a decisive breakthrough in the autumn of 2022, and after two further years of rigorous development, formulated a relatively comprehensive set of historical conclusions. Consequently, he devoted himself to writing and has chosen to publish the manuscript, regardless of his own humble estimation of it. Adrian has never considered his viewpoints to be utterly flawless; his sole aspiration is to inspire future generations and serve the well-being of humanity and the pursuit of truth.
+
+Some might wonder: why publish the manuscript under the pseudonym Adrian Mercer? Is it merely to protect privacy? This is not the case; the information already revealed within the manuscript is more than sufficient. The true reason I do this is that I hope Adrian can forever represent the ideal side of my life: adept at learning, courageous in questioning, diligent in thinking, loyal to truth, relentless in the pursuit of freedom, deeply caring for compatriots, vibrant with youth, and absolutely fearless even in the face of a myriad of hardships.
+
+The hardest thing in life is to remain worthy of oneself. I am not, personally, a particularly fortunate person, and I have no choice but to confront a complex and tortuous life. I do not know how much of my once-beautiful qualities will remain within me years from now. So let Adrian Mercer represent the young me who once possessed them: a person who, whatever the circumstances, lived a vivid and splendid life with an open heart and a clear conscience.
+
+Throughout the process of publishing “Through the Chinese Mirror”, I have often used web-archiving tools such as the Wayback Machine to leave records of my work, in case unforeseen and uncontrollable circumstances should cause its loss. In truth, is the identity of Adrian Mercer not, in its own way, a snapshot of my life? It is not an ordinary photograph. Yet within it are the most heroic actions, the most legendary experiences, and the most extraordinary landscapes I have ever encountered.
+
+Due to personal reasons, it will likely be difficult to maintain this account in the long term. Should there be any need, one may attempt to contact me via the email [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me).
+
+中文原文:
+
+Adrian Mercer 是一位独立跨学科研究者，其研究探索历史、社会学、社会演化与制度转型，强调比较历史分析、严谨推理，以及构建理解长期社会变迁的更广泛框架。
+
+Adrian Mercer始终关注自己祖国与同胞的命运，有感于时艰，在生活之余一直在寻求若干重大历史与社会的解答。幸得上天眷顾，Adrian在2022年秋天取得了决定性的突破，又历经两年发展出了一套比较完整的历史学结论。遂发奋写作，并不揣浅陋将其发布。Adrian从不认为自己的观点完美无缺，但求能可以启迪后人，服务于人类的福祉及对真理的追求。
+
+或许有人好奇，为什么要以Adrian Mercer为名发布文稿呢，是为了隐私保护吗？不是这样的，在文稿中透露的信息已经够多了。我之所以这样做，原因是我希望Adrian能够永远代表我生命中理想的一面: 善于学习，勇于质疑，勤于思考，忠于真理，追求自由，关爱同胞，朝气蓬勃，即使千难万险也不畏惧。
+
+人一生最难的是始终对得起自己，我个人并不是一个幸运的人，不得不面对复杂曲折的生活。我不知道若干年之后，自己曾经美好的品质还能在身上留下多少。所以就让Adrian Mercer代表那个曾经年轻的我吧，一个无论如何都此精彩生活过的坦坦荡荡的人！
+
+我在发布"中国之鉴"这一项目的过程中，常常使用Wayback Machine等网页截图工具为我的项目留下记录，以防不可控因素造成损失。实际上，Adrian Mercer这一身份何尝不是我人生的快照呢？它不是普通的照片，然而，最英雄主义的行动，最传奇的经历和最不可思议的风景都在其中了。
+
+这个账号因为个人原因，恐怕也很难长久维护，有需要的话可以尝试通过邮箱 [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me) 联系我。
 
