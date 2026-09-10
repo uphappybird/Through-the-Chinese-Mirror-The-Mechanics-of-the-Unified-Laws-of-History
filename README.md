@@ -12,11 +12,11 @@ The official archival release of this project has been deposited in Zenodo.
 
 
 
-DOI: https://doi.org/10.5281/zenodo.21458550
+DOI: https://doi.org/10.5281/zenodo.21386558
 
 
 
-Beginning with Version 2.0, the contents of this GitHub repository are synchronized with the corresponding Zenodo release in order to reduce long-term maintenance costs and ensure consistency across publication platforms.
+Beginning with Version 2.0, the contents of this GitHub repository are synchronized with the corresponding Zenodo (or OSF) release in order to reduce long-term maintenance costs and ensure consistency across publication platforms.
 
 
 
@@ -48,6 +48,14 @@ This version introduces several improvements to the published files:
 1. Added a "Copyright and Open Access License" and a "Declaration of Irrevocable Open-Access License" to the front matter of every PDF file, explicitly stating that this work is permanently released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 2. Renamed the PDF files previously containing Chinese characters in their filenames using English-only filenames, in order to avoid potential character-encoding or compatibility issues across different repositories and operating systems.
 3. Corrected several minor formatting and table-of-contents issues to improve consistency and readability.
+
+
+
+##### Version 3.0 Update Notes:
+
+
+
+Only minor clerical and formatting errors were corrected.
 
 
 
