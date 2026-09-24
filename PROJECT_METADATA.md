@@ -1,4 +1,4 @@
-### Title: Through the Chinese Mirror: The Mechanics of the Unified Laws of History (Drafted since 2022) / 中国之鉴：历史统一规律的运行机制（壬寅年起记录）
+### Title: Through the Chinese Mirror: The Mechanics of the Unified Laws of History (Drafted since 2022) / 中国之鉴：历史统一规律的运行机制（壬寅年起记录）- Wiki Pages
 
 ### Sole Author: Adrian Mercer
 
@@ -20,7 +20,7 @@ This is the complete English translation of the manuscript, corresponding almost
 
 ###### "Thoughts on the Future (Chinese-English Bilingual).pdf"
 
-This is a short essay based on the content of the manuscript but independent of it, including both English and Chinese original versions in a bilingual format. The corresponding source file in DOCX format are also included.
+This is a short essay based on the content of the manuscript but independent of it, including both English and Chinese original versions in a bilingual format. The corresponding source file in DOCX format is also included.
 
 ###### "Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022) Chinese Original \[include Author's Preface and introduction].pdf"
 
@@ -76,7 +76,7 @@ The author's contact email is: [tuoturangyi@proton.me](mailto:tuoturangyi@proto
 
 Academic discussion and correspondence are always welcome. However, due to the author's personal circumstances and the complexity of the network environment in which the author currently lives, it may take a considerable amount of time for emails to be read and replied to. Responses will be provided whenever circumstances permit. Please also note that this email address may eventually become unavailable because of factors beyond the author's control. If this happens, future contact information, if any, will be announced through the author's publicly maintained archival repositories whenever possible. 
 
-Throughout all publicly released versions of this work, the author publishes under the name Adrian Mercer.
+**Throughout all publicly released versions of this work, the author publishes under the name Adrian Mercer.**
 
 ### Additional Description:
 
@@ -104,7 +104,7 @@ Readers may further benefit from using AI-assisted reading tools to gain a compr
 
 The author hereby declares that, at the time of publication, it is his explicit, deliberate, and enduring intention that this manuscript remain permanently and publicly accessible as part of the historical and intellectual record of humanity.
 
-Accordingly, any future request for the withdrawal, deletion, concealment, or restriction of this work purportedly made through the author's accounts should be evaluated with particular caution. Such requests may not necessarily represent the author's genuine intention and could result from account compromise, coercion, misrepresentation, or other circumstances beyond the author's free will.
+**Accordingly, any future request for the withdrawal, deletion, concealment, or restriction of this work purportedly made through the author's accounts should be evaluated with particular caution. Such requests may not necessarily represent the author's genuine intention and could result from account compromise, coercion, misrepresentation, or other circumstances beyond the author's free will.**
 
 This statement is intended to serve as a permanent public declaration of the author's preservation intent.
 
@@ -112,33 +112,43 @@ This statement is intended to serve as a permanent public declaration of the aut
 
 While this work is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), the author respectfully requests that any derivative version preserve the original intellectual intent of the work.
 
-Editorial corrections, typographical fixes, formatting improvements, translations, and other modifications that improve accessibility are highly welcomed. However, substantial alterations to the arguments, selective omission of context, or modifications that materially change the author's intended meaning should not be represented as the author's original work.
+Editorial corrections, typographical fixes, formatting improvements, translations, and other modifications that improve accessibility are highly welcomed. **However, substantial alterations to the arguments, selective omission of context, or modifications that materially change the author's intended meaning should not be represented as the author's original work.**
 
 Where substantive changes are made, modified versions **should** be clearly identified as adaptations rather than the original manuscript.
 
-### Licenses: 
+### Licenses:
 
 Creative Commons Attribution 4.0 International
 
-### Copyright: 
+### Copyright:
 
 Copyright © 2026 Adrian Mercer. All rights reserved except as granted under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-### Languages: 
+### Languages:
 
 English; Mandarin Chinese
 
-### Related works: 
+### Related works:
 
-is supplyment by [uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+is supplemented by [uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
 
 ### Original GitHub Repository URL Wayback Machine Snapshot:
 
 [https://web.archive.org/web/20260827013004/https://github.com/shanbanjiu-lang/Audit-of-ChineseHistory-and-the-Universal-Laws-of-Historical-Development](https://web.archive.org/web/20260827013004/https://github.com/shanbanjiu-lang/Audit-of-ChineseHistory-and-the-Universal-Laws-of-Historical-Development)
 
-[https://web.archive.org/web/20260826105713/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History](https://web.archive.org/web/20260826105713/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
+[https://web.archive.org/web/20260910020252/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History](https://web.archive.org/web/20260910020252/https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History)
 
-### Citation: 
+### Original Zenodo Project URL Wayback Machine Snapshots:
+
+[https://web.archive.org/web/20260924054121/https://zenodo.org/records/22090244](https://web.archive.org/web/20260924054121/https://zenodo.org/records/22090244) **(version 2.01)**
+
+[https://web.archive.org/web/20260821044029/https://zenodo.org/records/21458550](https://web.archive.org/web/20260821044029/https://zenodo.org/records/21458550) **(version 2)**
+
+[https://web.archive.org/web/20260821051722/https://zenodo.org/records/21386559](https://web.archive.org/web/20260821051722/https://zenodo.org/records/21386559) **(version 1)**
+
+The same web snapshots are also preserved via **archive.today**.
+
+### Citation:
 
 If you wish to cite this work, please cite the Zenodo DOI: [https://doi.org/10.5281/zenodo.21386558](https://doi.org/10.5281/zenodo.21386558)
 
@@ -150,7 +160,7 @@ Multiple backups of this project have been established on the Internet Archive, 
 
 ### Status of the Original Substack Account:
 
-This account ([https://realadrianmercer.substack.com](https://realadrianmercer.substack.com/)) was previously used for the translation, formatting, and collation of the manuscript. As the project has now been officially published on Zenodo (DOI: 10.5281/zenodo.21386558) and OSF (DOI: 10.17605/OSF.IO/N49WH), and achieved distributed storage via the Internet Archive and Z-Library, this account has fulfilled its historical mission and will cease all further updates and activities ([https://web.archive.org/web/20260827014635/https://realadrianmercer.substack.com/p/mission-accomplished-the-serialization](https://web.archive.org/web/20260827014635/https://realadrianmercer.substack.com/p/mission-accomplished-the-serialization)).
+This account ([https://realadrianmercer.substack.com](https://realadrianmercer.substack.com/)) was previously used for the translation, formatting, and collation of the manuscript. As the project has now been officially published on Zenodo (DOI: 10.5281/zenodo.21386558) and OSF (DOI: 10.17605/OSF.IO/N49WH), and achieved distributed storage via the **Internet Archive**, **Z-Library** (Articles) and **Libgen**, this account has fulfilled its historical mission and will cease all further updates and activities ([https://archive.ph/QlYmN](https://archive.ph/QlYmN)).
 
 ### A Personal Note to Future Readers:
 
@@ -188,21 +198,21 @@ Some might wonder: why publish the manuscript under the pseudonym Adrian Mercer?
 
 The hardest thing in life is to remain worthy of oneself. I am not, personally, a particularly fortunate person, and I have no choice but to confront a complex and tortuous life. I do not know how much of my once-beautiful qualities will remain within me years from now. So let Adrian Mercer represent the young me who once possessed them: a person who, whatever the circumstances, lived a vivid and splendid life with an open heart and a clear conscience.
 
-Throughout the process of publishing “Through the Chinese Mirror”, I have often used web-archiving tools such as the Wayback Machine to leave records of my work, in case unforeseen and uncontrollable circumstances should cause its loss. In truth, is the identity of Adrian Mercer not, in its own way, a snapshot of my life? It is not an ordinary photograph. Yet within it are the most heroic actions, the most legendary experiences, and the most extraordinary landscapes I have ever encountered.
+Throughout the process of publishing 'Through the Chinese Mirror', I have often used web-archiving tools such as the Wayback Machine to leave records of my work, in case unforeseen and uncontrollable circumstances should cause its loss. In truth, is the identity of Adrian Mercer not, in its own way, a snapshot of my life? It is not an ordinary photograph. Yet within it are the most heroic actions, the most legendary experiences, and the most extraordinary landscapes I have ever encountered.
 
-Due to personal reasons, it will likely be difficult to maintain this account in the long term. Should there be any need, one may attempt to contact me via the email [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me).
+**Due to personal reasons, it will likely be difficult to maintain this account in the long term. Allowing the login credentials for this account to lapse is entirely intentional on my part. Any subsequent requests to recover this account should not be regarded as originating from me.** Should there be any future updates to the 'Through the Chinese Mirror' project, readers may access them via **Zenodo**, **GitHub**, and the other previously mentioned manuscript storage platforms. And should there be any need, one may attempt to contact me via the email [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me).
 
 中文原文:
 
 Adrian Mercer 是一位独立跨学科研究者，其研究探索历史、社会学、社会演化与制度转型，强调比较历史分析、严谨推理，以及构建理解长期社会变迁的更广泛框架。
 
-Adrian Mercer始终关注自己祖国与同胞的命运，有感于时艰，在生活之余一直在寻求若干重大历史与社会的解答。幸得上天眷顾，Adrian在2022年秋天取得了决定性的突破，又历经两年发展出了一套比较完整的历史学结论。遂发奋写作，并不揣浅陋将其发布。Adrian从不认为自己的观点完美无缺，但求能可以启迪后人，服务于人类的福祉及对真理的追求。
+Adrian Mercer始终关注自己祖国与同胞的命运，有感于时艰，在生活之余一直在寻求若干重大历史与社会的解答。幸得上天眷顾，Adrian在2022年秋天取得了决定性的突破，又历经两年发展出了一套比较完整的历史学结论。遂发奋写作，并不揣浅陋将其发布。Adrian从不认为自己的观点完美无缺，但求能启迪后人，服务于人类的福祉及对真理的追求。
 
 或许有人好奇，为什么要以Adrian Mercer为名发布文稿呢，是为了隐私保护吗？不是这样的，在文稿中透露的信息已经够多了。我之所以这样做，原因是我希望Adrian能够永远代表我生命中理想的一面: 善于学习，勇于质疑，勤于思考，忠于真理，追求自由，关爱同胞，朝气蓬勃，即使千难万险也不畏惧。
 
-人一生最难的是始终对得起自己，我个人并不是一个幸运的人，不得不面对复杂曲折的生活。我不知道若干年之后，自己曾经美好的品质还能在身上留下多少。所以就让Adrian Mercer代表那个曾经年轻的我吧，一个无论如何都此精彩生活过的坦坦荡荡的人！
+人一生最难的是始终对得起自己，我个人并不是一个幸运的人，不得不面对复杂曲折的生活。我不知道若干年之后，自己曾经美好的品质还能在身上留下多少。所以就让Adrian Mercer代表那个曾经年轻的我吧，一个无论如何都如此精彩生活过的坦坦荡荡的人！
 
-我在发布"中国之鉴"这一项目的过程中，常常使用Wayback Machine等网页截图工具为我的项目留下记录，以防不可控因素造成损失。实际上，Adrian Mercer这一身份何尝不是我人生的快照呢？它不是普通的照片，然而，最英雄主义的行动，最传奇的经历和最不可思议的风景都在其中了。
+我在发布“中国之鉴”这一项目的过程中，常常使用Wayback Machine等网页截图工具为我的项目留下记录，以防不可控因素造成损失。实际上，Adrian Mercer这一身份何尝不是我人生的快照呢？它不是普通的照片，然而，最英雄主义的行动，最传奇的经历和最不可思议的风景都在其中了。
 
-这个账号因为个人原因，恐怕也很难长久维护，有需要的话可以尝试通过邮箱 [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me) 联系我。
+这个账号因为个人原因，恐怕也很难长久维护。放任此账户的登录途径失效是我本人的意愿，此后若有任何寻回此账户的请求均不应被视为由我本人发出。“中国之鉴”项目日后若有更新，读者或可通过**Zenodo**、**Github**及此前提及的其它存储平台查看。有需要的话可以尝试通过邮箱 [tuoturangyi@proton.me](mailto:tuoturangyi@proton.me) 联系我。
 

@@ -2,7 +2,7 @@
 
 The GitHub repository ([uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History: An independent, long-term historical research project. Beginning with major questions in Chinese history and reality, and grounded in established scholarship and rigorous scientific methods, it ultimately develops a unified framework for explaining social evolution, institutional transformation, and the long-term rise and fall of civilizations.](https://github.com/uphappybird/Through-the-Chinese-Mirror-The-Mechanics-of-the-Unified-Laws-of-History) ) associated with this work is also maintained by the same author (Adrian Mercer).
 
-Zenodo serves as the permanent archival record of the finalized release of this project, including the principal manuscripts, companion documents, and archival records. The GitHub repository contains supplementary materials, revision history, cryptographic hashes, additional documentation, and future updates.
+OSF serves as the permanent archival record of the finalized release of this project, including the principal manuscripts, companion documents, and archival records. The GitHub repository contains supplementary materials, revision history, cryptographic hashes, additional documentation, and future updates.
 
 The GitHub repository should therefore be regarded as an official companion repository maintained by the original author.
 
@@ -10,9 +10,7 @@ The GitHub repository should therefore be regarded as an official companion repo
 
 SHA256 hashes of all released files are listed below.
 
-These hashes may be used to verify file integrity
-
-and confirm that downloaded copies have not been modified.
+These hashes may be used to verify file integrity and confirm that downloaded copies have not been modified.
 
 \[Refined and Guided Edition] Through the Chinese Mirror The Mechanics of the Unified Laws of History (Drafted since 2022).pdf
 
@@ -60,15 +58,15 @@ SHA-256: 7b052a7f4cd6e0956fb4b2544ba161150485c07cf5c5a7e8edcf9b055211821a
 
 PROJECT\_METADATA.md
 
-SHA-256: 741fa43a311b6a6461f6d00e3525b895b32bd116ec7424a2e41e57b1a6ec95b6
+SHA-256: 58da1401f750e59487622da63fc80d3b7bcdfd2d498cbc54e6cac4d455621ddb
 
 AUTHOR\_DECLARATION.md
 
-SHA-256: 371cafbdfe2601f2b456a61b17b22e6b2665fc91d88a6806be752dadedf35a60
+SHA-256: ff5479871a19b9c44d57ca431c57b8d8a8fa3fe120830439bcbc2cab674305fc
 
 ## Version Information
 
-Given the author's increasingly scarce personal free time, this Version registered on OSF will likely serve as the project's final formal archived version with an assigned DOI.
+Given the author's increasingly scarce personal free time, this version registered on OSF will likely serve as the project's final formal archived version with an assigned DOI.
 
 It includes the complete English translation, the Refined and Guided English edition, the bilingual companion essay *Thoughts on the Future*, the revised Chinese original manuscript (including the Author's Preface and Introduction), together with the accompanying archival documentation (*ARCHIVAL\_RECORD.md*, *PROJECT\_METADATA.md*, and *AUTHOR\_DECLARATION.md*).
 
